@@ -1,0 +1,16 @@
+/* XPM */
+static char *ea_xpm[] = {
+"8 8 4 1",
+"0 c #E8E8E8",  // Blanc cassé (fond)
+"1 c #A9A9A9",  // Gris clair
+"2 c #6E6E6E",  // Gris foncé
+"3 c #7DA6C2",  // Bleu-gris léger (veines)
+"00110022",
+"01212310",
+"13232121",
+"12321230",
+"21232130",
+"12321010",
+"00112230",
+"00221000"
+};
